@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Sachin Yadav
+# Hi, I'm Sachin Yadav
 
 ### 💻 Full Stack Developer | Java & DSA | MERN Stack | SQL | DevOps
 
@@ -254,6 +254,6 @@ Exploring **containerization, deployment, and development workflows** using mode
 
 <br>
 
-🌐 **Mumbai, Maharashtra, India**
+<img src="https://img.icons8.com/ios-filled/20/000000/marker.png" /> **Mumbai, Maharashtra, India**
 
 </div>
