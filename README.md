@@ -22,10 +22,6 @@
   <img src="https://skillicons.dev/icons?i=gmail" height="35" />
 </a>
 
-<br><br>
-
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,react,nodejs,express,mongodb,mysql,docker,kubernetes,git" />
-
 </div>
 
 ---
@@ -44,53 +40,68 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 <table>
 <tr>
-
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ### 💻 Programming
 
-- ☕ Java
-- ⚡ C
-- 🟨 JavaScript
-- 🧩 Data Structures & Algorithms
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,js" height="35" />
+</p>
+
+`Java` · `C` · `JavaScript`
+
+**Core:** OOP · DSA · Problem Solving
 
 </td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
+
+<td width="48%" valign="top">
 
 ### 🎨 Frontend
 
-- HTML5
-- CSS3
-- JavaScript
-- React.js
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" height="35" />
+</p>
+
+`HTML` · `CSS` · `JavaScript` · `React.js`
 
 </td>
+</tr>
 
+<tr>
+<td colspan="3"><br></td>
 </tr>
 
 <tr>
 
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
 ### ⚙️ Backend & Database
 
-- Node.js
-- Express.js
-- REST APIs
-- MongoDB
-- SQL
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="35" />
+</p>
+
+`Node.js` · `Express.js` · `MongoDB` · `SQL`
+
+**Core:** REST APIs · Backend Development
 
 </td>
 
-<td width="50%" valign="top">
+<td width="4%"></td>
+
+<td width="48%" valign="top">
 
 ### 🐳 DevOps & Tools
 
-- Docker
-- Kubernetes
-- Git
-- GitHub
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="35" />
+</p>
+
+`Docker` · `Kubernetes` · `Git` · `GitHub`
+
+**Focus:** Containers · Deployment · Version Control
 
 </td>
 
@@ -185,6 +196,10 @@ Working with **Java, OOP, Data Structures, Algorithms, and problem-solving** to 
 </tr>
 
 <tr>
+<td colspan="2"><br></td>
+</tr>
+
+<tr>
 
 <td width="50%" valign="top">
 
@@ -227,28 +242,7 @@ Exploring **containerization, deployment, and development workflows** using mode
 
 <div align="center">
 
-### 💭 Think
-Understand the problem
-
-↓  
-
-### 📝 Plan
-Design the solution
-
-↓  
-
-### 💻 Build
-Turn ideas into code
-
-↓  
-
-### 🧪 Test
-Find and improve
-
-↓  
-
-### 🚀 Deploy
-Make it usable
+### 💭 Think → 📝 Plan → 💻 Build → 🧪 Test → 🚀 Deploy
 
 </div>
 
@@ -260,6 +254,6 @@ Make it usable
 
 <br>
 
-📍 **Mumbai, Maharashtra, India**
+🌐 **Mumbai, Maharashtra, India**
 
 </div>
