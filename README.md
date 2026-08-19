@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:1F6FEB&height=200&section=header&text=Sachin%20Yadav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Java%20%26%20DSA%20%7C%20MERN%20%7C%20DevOps&descAlignY=58&descSize=18" width="100%"/>
+# 👋 Hi, I'm Sachin Yadav
+### 💻 Full Stack Developer | Java & DSA | MERN Stack | SQL | DevOps
 
 <a href="https://readme-typing-svg.demolab.com/">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+applications...;Solving+problems...;Learning+through+code..." alt="Typing SVG" />
@@ -33,22 +34,22 @@
 <td width="50%" align="center">
 
 **💻 Programming**
-
-<img src="https://skillicons.dev/icons?i=java,c,js" height="40"/>
-
+<br><br>
+<img src="https://skillicons.dev/icons?i=java,c,js" height="48"/>
+<br><br>
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![DSA](https://img.shields.io/badge/DSA-4B0082?style=flat-square)
 ![OOP](https://img.shields.io/badge/OOP-4B0082?style=flat-square)
-
+<br><br>
 </td>
 <td width="50%" align="center">
 
 **🎨 Frontend**
-
-<img src="https://skillicons.dev/icons?i=html,css,react" height="40"/>
-
+<br><br>
+<img src="https://skillicons.dev/icons?i=html,css,react" height="48"/>
+<br><br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -59,27 +60,27 @@
 <td width="50%" align="center">
 
 **⚙️ Backend & Database**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="40"/>
-
+<br><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="48"/>
+<br><br>
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
-
+<br><br>
 </td>
 <td width="50%" align="center">
 
 **🐳 DevOps & Tools**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="40"/>
-
+<br><br>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="48"/>
+<br><br>
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-
+<br><br>
 </td>
 </tr>
 </table>
@@ -214,9 +215,11 @@ Exploring **containerization, deployment, and development workflows** using mode
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F6FEB,100:0D1117&height=150&section=footer&text=Build%20%E2%80%A2%20Solve%20%E2%80%A2%20Learn%20%E2%80%A2%20Improve&fontSize=22&fontColor=ffffff&animation=fadeIn&fontAlignY=75" width="100%"/>
+---
 
 <div align="center">
+
+### `Build • Solve • Learn • Improve`
 
 📍 **Mumbai, Maharashtra, India**
 
