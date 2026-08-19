@@ -38,28 +38,43 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
-### 💻 Programming & Frontend
+### 💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,js,html,css,react" height="32" />
+  <img src="https://skillicons.dev/icons?i=java,c,js" height="32" />
 </p>
 
-`Java` · `C` · `JavaScript` · `HTML` · `CSS` · `React.js`
+`Java` · `C` · `JavaScript` · `DSA` · `OOP`
 
-<br>
+---
 
-### ⚙️ Backend, Database & DevOps
+### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,docker,kubernetes,git,github" height="32" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" height="32" />
 </p>
 
-`Node.js` · `Express.js` · `MongoDB` · `SQL`  
-`REST APIs` · `Docker` · `Kubernetes` · `Git` · `GitHub`
+`HTML` · `CSS` · `JavaScript` · `React.js`
 
-</div>
+---
+
+### ⚙️ Backend & Database
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="32" />
+</p>
+
+`Node.js` · `Express.js` · `MongoDB` · `SQL` · `REST APIs`
+
+---
+
+### 🐳 DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="32" />
+</p>
+
+`Docker` · `Kubernetes` · `Git` · `GitHub`
 
 ---
 
@@ -81,31 +96,35 @@ Exploring **Docker and Kubernetes** and understanding modern development workflo
 
 ## 🚀 What I Build
 
-<div align="center">
+### 🌐 Full Stack Applications
 
-### 🌐 Applications & Software
-
-<p>
-  <strong>Full Stack Applications</strong><br>
-  Building applications where the <strong>frontend, backend, and database</strong>
-  work together to solve practical problems.
-</p>
+Building applications where the **frontend, backend, and database** work together to solve practical problems.
 
 `React` `Node.js` `Express.js` `MongoDB` `SQL`
 
-<br>
+---
 
-### ☕ Programming & Backend
+### ☕ Java & DSA
 
-<p>
-  <strong>Java Projects • DSA • APIs</strong><br>
-  Working with <strong>Java, OOP, DSA, algorithms, backend logic,
-  and REST APIs</strong> to strengthen software development fundamentals.
-</p>
+Working with **Java, OOP, Data Structures, Algorithms, and problem-solving** to strengthen programming fundamentals.
 
-`Java` `OOP` `DSA` `REST APIs` `Node.js` `Express.js`
+`Java` `OOP` `DSA` `Algorithms`
 
-</div>
+---
+
+### ⚙️ Backend & APIs
+
+Developing server-side applications and **REST APIs** while working with application logic and data management.
+
+`Node.js` `Express.js` `REST APIs` `MongoDB`
+
+---
+
+### 🐳 DevOps
+
+Exploring **containerization, deployment, and development workflows** using modern DevOps technologies.
+
+`Docker` `Kubernetes` `Git` `GitHub`
 
 ---
 
