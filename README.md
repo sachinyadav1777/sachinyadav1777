@@ -10,15 +10,15 @@
 
 <br>
 
-<a text-decoration: underline; href="https://github.com/sachinyadav1777">
+<a href="https://github.com/sachinyadav1777">
   <img src="https://skillicons.dev/icons?i=github" height="35" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a text-decoration: underline; href="https://www.linkedin.com/in/sachin-yadav-372513383">
+<a href="https://www.linkedin.com/in/sachin-yadav-372513383">
   <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
 </a>
 &nbsp;&nbsp;&nbsp;
-<a text-decoration: underline; href="mailto:sy5892027@gmail.com">
+<a href="mailto:sy5892027@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="35" />
 </a>
 
