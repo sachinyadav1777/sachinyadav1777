@@ -238,11 +238,23 @@ Exploring **containerization, deployment, and development workflows** using mode
 
 ---
 
-## 💡 Development Approach
+## 💡 Development Workflow 
 
 <div align="center">
 
-### 💭 Think → 📝 Plan → 💻 Build → 🧪 Test → 🚀 Deploy
+<table>
+<tr>
+<td align="center"><b>01</b><br>UNDERSTAND</td>
+<td>→</td>
+<td align="center"><b>02</b><br>PLAN</td>
+<td>→</td>
+<td align="center"><b>03</b><br>BUILD</td>
+<td>→</td>
+<td align="center"><b>04</b><br>TEST</td>
+<td>→</td>
+<td align="center"><b>05</b><br>DEPLOY</td>
+</tr>
+</table>
 
 </div>
 
