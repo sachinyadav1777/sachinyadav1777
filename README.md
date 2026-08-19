@@ -38,6 +38,7 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 ## 🛠️ Tech Stack
 
+<table>
 ### 💻 Programming
 
 <p>
@@ -46,8 +47,9 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 `Java` · `C` · `JavaScript` · `DSA` · `OOP`
 
----
+</table>
 
+<table>
 ### 🎨 Frontend
 
 <p>
@@ -56,7 +58,9 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 `HTML` · `CSS` · `JavaScript` · `React.js`
 
----
+</table>
+
+<table>
 
 ### ⚙️ Backend & Database
 
@@ -66,7 +70,9 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 `Node.js` · `Express.js` · `MongoDB` · `SQL` · `REST APIs`
 
----
+</table>
+
+<table>
 
 ### 🐳 DevOps & Tools
 
@@ -76,7 +82,7 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 `Docker` · `Kubernetes` · `Git` · `GitHub`
 
----
+</table>
 
 ## 🎯 Current Focus
 
