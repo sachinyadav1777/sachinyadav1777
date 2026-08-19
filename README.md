@@ -38,51 +38,70 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 ## 🛠️ Tech Stack
 
-<table>
+<div align="left">
+
+<kbd>
+
 ### 💻 Programming
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,c,js" height="32" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,c,js" height="32" />
 
-`Java` · `C` · `JavaScript` · `DSA` · `OOP`
+`Java` · `C` · `JavaScript`  
+`DSA` · `OOP`
 
-</table>
+</kbd>
 
-<table>
+</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<div align="right">
+  
+<kbd>
+
 ### 🎨 Frontend
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" height="32" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react" height="32" />
 
-`HTML` · `CSS` · `JavaScript` · `React.js`
+`HTML` · `CSS` · `JavaScript`  
+`React.js`
 
-</table>
+</kbd>
 
-<table>
+</div>
+
+<br><br>
+
+<div align="left">
+
+<kbd>
 
 ### ⚙️ Backend & Database
 
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="32" />
-</p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="32" />
 
-`Node.js` · `Express.js` · `MongoDB` · `SQL` · `REST APIs`
+`Node.js` · `Express.js`  
+`MongoDB` · `SQL` · `REST APIs`
 
-</table>
+</kbd>
 
-<table>
+</div>
+
+&nbsp;&nbsp;&nbsp;&nbsp;
+
+<div align="right">
+<kbd>
 
 ### 🐳 DevOps & Tools
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="32" />
-</p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="32" />
 
-`Docker` · `Kubernetes` · `Git` · `GitHub`
+`Docker` · `Kubernetes`  
+`Git` · `GitHub`
 
-</table>
+</kbd>
+
+</div>
 
 ## 🎯 Current Focus
 
