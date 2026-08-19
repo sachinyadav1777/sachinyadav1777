@@ -1,7 +1,6 @@
 <div align="center">
 
 # 👋 Hi, I'm Sachin Yadav
-
 ### 💻 Full Stack Developer | Java & DSA | MERN Stack | SQL | DevOps
 
 <p>
@@ -38,93 +37,54 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 ## 🛠️ Tech Stack
 
-<table width="100%" border="0">
+<table width="100%" border="0" cellpadding="10" cellspacing="0">
 <tr>
-
-<td width="50%" valign="top">
-
-<div align="left">
-
+<td width="50%" valign="top" align="center">
 <kbd>
+<br>
 
 ### 💻 Programming
-
-<img src="https://skillicons.dev/icons?i=java,c,js" height="32" />
-
-`Java` · `C` · `JavaScript`  
+<img src="https://skillicons.dev/icons?i=java,c,js" height="32" /><br><br>
+`Java` · `C` · `JavaScript`<br>
 `DSA` · `OOP`
-
+<br><br>
 </kbd>
-
-</div>
-
 </td>
-
-<td width="50%" valign="top">
-
-<div align="left">
-
+<td width="50%" valign="top" align="center">
 <kbd>
+<br>
 
 ### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,react" height="32" />
-
-`HTML` · `CSS` · `JavaScript`  
+<img src="https://skillicons.dev/icons?i=html,css,react" height="32" /><br><br>
+`HTML` · `CSS` · `JavaScript`<br>
 `React.js`
-
+<br><br>
 </kbd>
-
-</div>
-
 </td>
-
 </tr>
-
 <tr>
-<td colspan="2">&nbsp;</td>
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-<div align="left">
-
+<td width="50%" valign="top" align="center">
 <kbd>
+<br>
 
 ### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="32" />
-
-`Node.js` · `Express.js`  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="32" /><br><br>
+`Node.js` · `Express.js`<br>
 `MongoDB` · `SQL` · `REST APIs`
-
+<br><br>
 </kbd>
-
-</div>
-
 </td>
-
-<td width="50%" valign="top">
-
-<div align="left">
-
+<td width="50%" valign="top" align="center">
 <kbd>
+<br>
 
 ### 🐳 DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="32" />
-
-`Docker` · `Kubernetes`  
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="32" /><br><br>
+`Docker` · `Kubernetes`<br>
 `Git` · `GitHub`
-
+<br><br>
 </kbd>
-
-</div>
-
 </td>
-
 </tr>
 </table>
 
@@ -132,61 +92,113 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 ## 🎯 Current Focus
 
-**🧠 Problem Solving**  
+**🧠 Problem Solving**
+<br>
 Strengthening **Data Structures & Algorithms** and improving logical thinking with Java.
 
-**🌐 Full Stack Development**  
+<br><br>
+
+**🌐 Full Stack Development**
+<br>
 Building complete applications across **frontend, backend, and databases**.
 
-**⚙️ Backend Engineering**  
+<br><br>
+
+**⚙️ Backend Engineering**
+<br>
 Exploring **REST APIs, server-side development, application logic, and database integration**.
 
-**🐳 DevOps**  
+<br><br>
+
+**🐳 DevOps**
+<br>
 Exploring **Docker and Kubernetes** and understanding modern development workflows.
 
 ---
 
 ## 🚀 What I Build
 
-### 🌐 Full Stack Applications
+<table width="100%" border="0" cellpadding="12" cellspacing="0" align="center">
 
+<tr>
+<td width="100%" align="center">
+<kbd>
+
+### 🌐 Full Stack Applications
 Building applications where the **frontend, backend, and database** work together to solve practical problems.
 
 `React` `Node.js` `Express.js` `MongoDB` `SQL`
+</kbd>
+</td>
+</tr>
 
----
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
+<tr>
+<td width="100%" align="center">
+<kbd>
 
 ### ☕ Java & DSA
-
 Working with **Java, OOP, Data Structures, Algorithms, and problem-solving** to strengthen programming fundamentals.
 
 `Java` `OOP` `DSA` `Algorithms`
+</kbd>
+</td>
+</tr>
 
----
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
+<tr>
+<td width="100%" align="center">
+<kbd>
 
 ### ⚙️ Backend & APIs
-
 Developing server-side applications and **REST APIs** while working with application logic and data management.
 
 `Node.js` `Express.js` `REST APIs` `MongoDB`
+</kbd>
+</td>
+</tr>
 
----
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
+<tr>
+<td width="100%" align="center">
+<kbd>
 
 ### 🐳 DevOps
-
 Exploring **containerization, deployment, and development workflows** using modern DevOps technologies.
 
 `Docker` `Kubernetes` `Git` `GitHub`
+</kbd>
+</td>
+</tr>
+
+</table>
 
 ---
 
 ## ⚡ Development Workflow
 
-<div align="center">
-
-`01 UNDERSTAND` → `02 PLAN` → `03 BUILD` → `04 TEST` → `05 DEPLOY`
-
-</div>
+<table border="0" cellpadding="8" cellspacing="0" align="center">
+<tr>
+<td align="center"><kbd>&nbsp;**01**<br>UNDERSTAND&nbsp;</kbd></td>
+<td align="center">➡️</td>
+<td align="center"><kbd>&nbsp;**02**<br>PLAN&nbsp;</kbd></td>
+<td align="center">➡️</td>
+<td align="center"><kbd>&nbsp;**03**<br>BUILD&nbsp;</kbd></td>
+<td align="center">➡️</td>
+<td align="center"><kbd>&nbsp;**04**<br>TEST&nbsp;</kbd></td>
+<td align="center">➡️</td>
+<td align="center"><kbd>&nbsp;**05**<br>DEPLOY&nbsp;</kbd></td>
+</tr>
+</table>
 
 ---
 
