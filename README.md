@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+applications...;Solving+problems...;Learning+through+code..." alt="Typing SVG" />
 </a>
 
-<br><br>
+<br>
 
 <a href="https://github.com/sachinyadav1777"><img src="https://skillicons.dev/icons?i=github" height="38" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sachin-yadav-372513383"><img src="https://skillicons.dev/icons?i=linkedin" height="38" /></a>&nbsp;&nbsp;&nbsp;
