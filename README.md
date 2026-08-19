@@ -38,7 +38,7 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 ## 🛠️ Tech Stack
 
-<table border="0" width="100%">
+<table width="100%" border="0">
 <tr>
 
 <td width="50%" valign="top">
@@ -82,7 +82,7 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 </tr>
 
 <tr>
-<td colspan="2"><br></td>
+<td colspan="2">&nbsp;</td>
 </tr>
 
 <tr>
