@@ -125,9 +125,10 @@ Exploring **Docker and Kubernetes** and understanding modern development workflo
 
 ## 🚀 What I Build
 
-<table width="100%">
-<tr>
+<div align="center">
 
+<table width="90%">
+<tr>
 <td align="center">
 
 **🌐 Full Stack Applications**
@@ -143,14 +144,11 @@ Building applications where the **frontend, backend, and database** work togethe
 </tr>
 </table>
 
-<div align="center">
+<div align="center">⬇️</div>
 
-&nbsp;&nbsp;&nbsp;⬇️&nbsp;&nbsp;&nbsp;
-
-</div>
-
-<table width="100%">
-<tr><td align="center">
+<table width="90%">
+<tr>
+<td align="center">
 
 **☕ Java & DSA**
 
@@ -161,17 +159,15 @@ Working with **Java, OOP, Data Structures, Algorithms, and problem-solving** to 
 ![DSA](https://img.shields.io/badge/DSA-4B0082?style=flat-square)
 ![Algorithms](https://img.shields.io/badge/Algorithms-4B0082?style=flat-square)
 
-</td></tr>
+</td>
+</tr>
 </table>
 
-<div align="center">
+<div align="center">⬇️</div>
 
-&nbsp;&nbsp;&nbsp;⬇️&nbsp;&nbsp;&nbsp;
-
-</div>
-
-<table width="100%">
-<tr><td align="center">
+<table width="90%">
+<tr>
+<td align="center">
 
 **⚙️ Backend & APIs**
 
@@ -182,17 +178,15 @@ Developing server-side applications and **REST APIs** while working with applica
 ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-</td></tr>
+</td>
+</tr>
 </table>
 
-<div align="center">
+<div align="center">⬇️</div>
 
-&nbsp;&nbsp;&nbsp;⬇️&nbsp;&nbsp;&nbsp;
-
-</div>
-
-<table width="100%">
-<tr><td align="center">
+<table width="90%">
+<tr>
+<td align="center">
 
 **🐳 DevOps**
 
@@ -203,8 +197,11 @@ Exploring **containerization, deployment, and development workflows** using mode
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-</td></tr>
+</td>
+</tr>
 </table>
+
+</div>
 
 ## ⚡ Development Workflow
 
