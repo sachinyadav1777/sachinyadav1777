@@ -5,7 +5,7 @@
 ### 💻 Full Stack Developer | Java & DSA | MERN Stack | SQL | DevOps
 
 <p>
-  Building applications • Solving problems • Learning through code
+  <em>Building applications • Solving problems • Learning through code</em>
 </p>
 
 <br>
@@ -45,7 +45,7 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 ### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,js" height="35"/>
+  <img src="https://skillicons.dev/icons?i=java,c,js" height="35" />
 </p>
 
 `Java` · `C` · `JavaScript`
@@ -54,12 +54,14 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 </td>
 
+<td width="4%"></td>
+
 <td width="50%" valign="top">
 
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" height="35"/>
+  <img src="https://skillicons.dev/icons?i=html,css,react" height="35" />
 </p>
 
 `HTML` · `CSS` · `JavaScript` · `React.js`
@@ -68,29 +70,41 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 </tr>
 
 <tr>
+<td colspan="3"><br></td>
+</tr>
+
+<tr>
+
 <td width="50%" valign="top">
 
 ### ⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="35"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="35" />
 </p>
 
 `Node.js` · `Express.js` · `MongoDB` · `SQL`
 
+**Core:** REST APIs · Backend Development
+
 </td>
+
+<td width="4%"></td>
 
 <td width="50%" valign="top">
 
 ### 🐳 DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="35"/>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="35" />
 </p>
 
 `Docker` · `Kubernetes` · `Git` · `GitHub`
 
+**Focus:** Containers · Deployment · Version Control
+
 </td>
+
 </tr>
 </table>
 
