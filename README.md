@@ -134,7 +134,6 @@ Building applications where the **frontend, backend, and database** work togethe
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
@@ -198,19 +197,47 @@ Exploring **containerization, deployment, and development workflows** using mode
 
 <div align="center">
 
-![01](https://img.shields.io/badge/01-UNDERSTAND-1F6FEB?style=for-the-badge)
-➡️
-![02](https://img.shields.io/badge/02-PLAN-8957E5?style=for-the-badge)
-➡️
-![03](https://img.shields.io/badge/03-BUILD-2EA043?style=for-the-badge)
-➡️
-![04](https://img.shields.io/badge/04-TEST-D29922?style=for-the-badge)
-➡️
-![05](https://img.shields.io/badge/05-DEPLOY-DA3633?style=for-the-badge)
+<table border="0">
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/01-UNDERSTAND-1F6FEB?style=for-the-badge"/>
+</td>
+
+<td align="center">
+&nbsp;&nbsp;➜&nbsp;&nbsp;
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/02-PLAN-8957E5?style=for-the-badge"/>
+</td>
+
+<td align="center">
+&nbsp;&nbsp;➜&nbsp;&nbsp;
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/03-BUILD-2EA043?style=for-the-badge"/>
+</td>
+
+<td align="center">
+&nbsp;&nbsp;➜&nbsp;&nbsp;
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/04-TEST-D29922?style=for-the-badge"/>
+</td>
+
+<td align="center">
+&nbsp;&nbsp;➜&nbsp;&nbsp;
+</td>
+
+<td align="center">
+<img src="https://img.shields.io/badge/05-DEPLOY-DA3633?style=for-the-badge"/>
+</td>
+</tr>
+</table>
 
 </div>
-
-<br>
 
 ---
 
