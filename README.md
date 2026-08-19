@@ -1,162 +1,95 @@
-<div align="center">
-
-# 👋 Hi, I'm Sachin Yadav
-
-### 💻 Full Stack Developer | Java & DSA | MERN Stack | SQL | DevOps
-
-<p>
-  <em>Building applications • Solving problems • Learning through code</em>
-</p>
-
-<br>
-
-<a href="https://github.com/sachinyadav1777">
-  <img src="https://skillicons.dev/icons?i=github" height="35" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sachin-yadav-372513383">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="35" />
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="mailto:sy5892027@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="35" />
-</a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm a developer interested in **full-stack development, problem-solving, and building practical software applications**.
-
-My programming foundation is built around **Java and Data Structures & Algorithms**, while I'm expanding my development skills across the **MERN stack, SQL, REST APIs, and DevOps**.
-
-I enjoy learning through hands-on development — taking an idea, turning it into code, and improving it through experimentation and practice.
-
----
-
 ## 🛠️ Tech Stack
 
-<div align="center">
+<table width="100%" border="0">
+<tr>
 
-<kbd>
-<b>💻 Programming</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=java,c,js" height="32" />
-<br>
-<code>Java</code> · <code>C</code> · <code>JavaScript</code>
-<br>
-<code>DSA</code> · <code>OOP</code>
-</kbd>
+<td width="50%" valign="top">
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+<table border="0" width="100%">
+<tr>
+<td>
 
-<kbd>
-<b>🎨 Frontend</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=html,css,react" height="32" />
-<br>
-<code>HTML</code> · <code>CSS</code> · <code>JavaScript</code>
-<br>
-<code>React.js</code>
-</kbd>
+### 💻 Programming
 
-<br><br>
+<p>
+  <img src="https://skillicons.dev/icons?i=java,c,js" height="32" />
+</p>
 
-<kbd>
-<b>⚙️ Backend & Database</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="32" />
-<br>
-<code>Node.js</code> · <code>Express.js</code>
-<br>
-<code>MongoDB</code> · <code>SQL</code> · <code>REST APIs</code>
-</kbd>
+`Java` · `C` · `JavaScript`  
+`DSA` · `OOP`
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
+</tr>
+</table>
 
-<kbd>
-<b>🐳 DevOps & Tools</b>
-<br><br>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="32" />
-<br>
-<code>Docker</code> · <code>Kubernetes</code>
-<br>
-<code>Git</code> · <code>GitHub</code>
-</kbd>
+</td>
 
-</div>
+<td width="50%" valign="top">
 
----
+<table border="0" width="100%">
+<tr>
+<td>
 
-## 🎯 Current Focus
+### 🎨 Frontend
 
-**🧠 Problem Solving**  
-Strengthening **Data Structures & Algorithms** and improving logical thinking with Java.
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react" height="32" />
+</p>
 
-**🌐 Full Stack Development**  
-Building complete applications across **frontend, backend, and databases**.
+`HTML` · `CSS` · `JavaScript`  
+`React.js`
 
-**⚙️ Backend Engineering**  
-Exploring **REST APIs, server-side development, application logic, and database integration**.
+</td>
+</tr>
+</table>
 
-**🐳 DevOps**  
-Exploring **Docker and Kubernetes** and understanding modern development workflows.
+</td>
 
----
+</tr>
 
-## 🚀 What I Build
+<tr>
 
-### 🌐 Full Stack Applications
+<td width="50%" valign="top">
 
-Building applications where the **frontend, backend, and database** work together to solve practical problems.
+<table border="0" width="100%">
+<tr>
+<td>
 
-`React` `Node.js` `Express.js` `MongoDB` `SQL`
+### ⚙️ Backend & Database
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="32" />
+</p>
 
-### ☕ Java & DSA
+`Node.js` · `Express.js`  
+`MongoDB` · `SQL` · `REST APIs`
 
-Working with **Java, OOP, Data Structures, Algorithms, and problem-solving** to strengthen programming fundamentals.
+</td>
+</tr>
+</table>
 
-`Java` `OOP` `DSA` `Algorithms`
+</td>
 
----
+<td width="50%" valign="top">
 
-### ⚙️ Backend & APIs
+<table border="0" width="100%">
+<tr>
+<td>
 
-Developing server-side applications and **REST APIs** while working with application logic and data management.
+### 🐳 DevOps & Tools
 
-`Node.js` `Express.js` `REST APIs` `MongoDB`
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="32" />
+</p>
 
----
+`Docker` · `Kubernetes`  
+`Git` · `GitHub`
 
-### 🐳 DevOps
+</td>
+</tr>
+</table>
 
-Exploring **containerization, deployment, and development workflows** using modern DevOps technologies.
+</td>
 
-`Docker` `Kubernetes` `Git` `GitHub`
-
----
-
-## ⚡ Development Workflow
-
-<div align="center">
-
-`01 UNDERSTAND` → `02 PLAN` → `03 BUILD` → `04 TEST` → `05 DEPLOY`
-
-</div>
-
----
-
-<div align="center">
-
-### `Build • Solve • Learn • Improve`
-
-<br>
-
-<img src="https://img.icons8.com/ios-filled/20/808080/marker.png" />
-**Mumbai, Maharashtra, India**
-
-</div>
+</tr>
+</table>
