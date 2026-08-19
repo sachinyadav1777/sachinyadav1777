@@ -16,7 +16,6 @@
 </div>
 
 ## 👨‍💻 About Me
----
 > I'm a developer interested in **full-stack development, problem-solving, and building practical software applications**.
 >
 > My programming foundation is built around **Java and Data Structures & Algorithms**, while I'm expanding my development skills across the **MERN stack, SQL, REST APIs, and DevOps**.
