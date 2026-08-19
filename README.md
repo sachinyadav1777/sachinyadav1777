@@ -5,7 +5,7 @@
 ### 💻 Full Stack Developer | Java & DSA | MERN Stack | SQL | DevOps
 
 <p>
-  <em>Building applications • Solving problems • Learning through code</em>
+  Building applications • Solving problems • Learning through code
 </p>
 
 <br>
