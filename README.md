@@ -38,223 +38,101 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 ## 🛠️ Tech Stack
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
 ### 💻 Programming
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,c,js" height="35" />
+  <img src="https://skillicons.dev/icons?i=java,c,js" height="32" />
 </p>
 
-`Java` · `C` · `JavaScript`
+`Java` · `C` · `JavaScript` · `DSA` · `OOP`
 
-**Core:** OOP · DSA · Problem Solving
-
-</td>
-
-<td width="4%"></td>
-
-<td width="50%" valign="top">
+---
 
 ### 🎨 Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react" height="35" />
+  <img src="https://skillicons.dev/icons?i=html,css,react" height="32" />
 </p>
 
 `HTML` · `CSS` · `JavaScript` · `React.js`
 
-</td>
-</tr>
-
-<tr>
-<td colspan="3"><br></td>
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ### ⚙️ Backend & Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="35" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="32" />
 </p>
 
-`Node.js` · `Express.js` · `MongoDB` · `SQL`
+`Node.js` · `Express.js` · `MongoDB` · `SQL` · `REST APIs`
 
-**Core:** REST APIs · Backend Development
-
-</td>
-
-<td width="4%"></td>
-
-<td width="50%" valign="top">
+---
 
 ### 🐳 DevOps & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="35" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="32" />
 </p>
 
 `Docker` · `Kubernetes` · `Git` · `GitHub`
-
-**Focus:** Containers · Deployment · Version Control
-
-</td>
-
-</tr>
-</table>
 
 ---
 
 ## 🎯 Current Focus
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-### 🧠 Problem Solving
-
+**🧠 Problem Solving**  
 Strengthening **Data Structures & Algorithms** and improving logical thinking with Java.
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🌐 Full Stack Development
-
+**🌐 Full Stack Development**  
 Building complete applications across **frontend, backend, and databases**.
 
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
-
-### ⚙️ Backend Engineering
-
+**⚙️ Backend Engineering**  
 Exploring **REST APIs, server-side development, application logic, and database integration**.
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🐳 DevOps
-
+**🐳 DevOps**  
 Exploring **Docker and Kubernetes** and understanding modern development workflows.
-
-</td>
-
-</tr>
-</table>
 
 ---
 
 ## 🚀 What I Build
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
 ### 🌐 Full Stack Applications
 
 Building applications where the **frontend, backend, and database** work together to solve practical problems.
 
-<br>
+`React` `Node.js` `Express.js` `MongoDB` `SQL`
 
-**Technologies**
-
-`React` `Node.js` `Express.js`
-
-`MongoDB` `SQL`
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### ☕ Java & DSA
 
 Working with **Java, OOP, Data Structures, Algorithms, and problem-solving** to strengthen programming fundamentals.
 
-<br>
+`Java` `OOP` `DSA` `Algorithms`
 
-**Focus**
-
-`Java` `OOP` `DSA`
-
-`Algorithms` `Problem Solving`
-
-</td>
-
-</tr>
-
-<tr>
-<td colspan="2"><br></td>
-</tr>
-
-<tr>
-
-<td width="50%" valign="top">
+---
 
 ### ⚙️ Backend & APIs
 
 Developing server-side applications and **REST APIs** while working with application logic and data management.
 
-<br>
+`Node.js` `Express.js` `REST APIs` `MongoDB`
 
-**Technologies**
-
-`Node.js` `Express.js`
-
-`REST APIs` `MongoDB`
-
-</td>
-
-<td width="50%" valign="top">
+---
 
 ### 🐳 DevOps
 
 Exploring **containerization, deployment, and development workflows** using modern DevOps technologies.
 
-<br>
-
-**Tools**
-
-`Docker` `Kubernetes`
-
-`Git` `GitHub`
-
-</td>
-
-</tr>
-</table>
+`Docker` `Kubernetes` `Git` `GitHub`
 
 ---
 
-## 💡 Development Workflow 
+## ⚡ Development Workflow
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center"><b>01</b><br>UNDERSTAND</td>
-<td>→</td>
-<td align="center"><b>02</b><br>PLAN</td>
-<td>→</td>
-<td align="center"><b>03</b><br>BUILD</td>
-<td>→</td>
-<td align="center"><b>04</b><br>TEST</td>
-<td>→</td>
-<td align="center"><b>05</b><br>DEPLOY</td>
-</tr>
-</table>
+`01 UNDERSTAND` → `02 PLAN` → `03 BUILD` → `04 TEST` → `05 DEPLOY`
 
 </div>
 
@@ -266,6 +144,7 @@ Exploring **containerization, deployment, and development workflows** using mode
 
 <br>
 
-📍 **Mumbai, Maharashtra, India**
+<img src="https://img.icons8.com/ios-filled/20/808080/marker.png" />
+**Mumbai, Maharashtra, India**
 
 </div>
