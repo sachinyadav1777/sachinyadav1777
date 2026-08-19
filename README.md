@@ -125,18 +125,14 @@ Exploring **Docker and Kubernetes** and understanding modern development workflo
 
 ## 🚀 What I Build
 
-<div align="center">
-
-<table border="0">
+<table width="100%">
 <tr>
 
-<td align="center" valign="top">
+<td align="center">
 
-### 🌐 Full Stack Applications
+**🌐 Full Stack Applications**
 
 Building applications where the **frontend, backend, and database** work together to solve practical problems.
-
-<br>
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
@@ -144,76 +140,71 @@ Building applications where the **frontend, backend, and database** work togethe
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
+</tr>
+</table>
 
-<td align="center" valign="middle">
-&nbsp;&nbsp;→&nbsp;&nbsp;
-</td>
+<div align="center">
 
-<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;⬇️&nbsp;&nbsp;&nbsp;
 
-### ☕ Java & DSA
+</div>
+
+<table width="100%">
+<tr><td align="center">
+
+**☕ Java & DSA**
 
 Working with **Java, OOP, Data Structures, Algorithms, and problem-solving** to strengthen programming fundamentals.
-
-<br>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-4B0082?style=flat-square)
 ![DSA](https://img.shields.io/badge/DSA-4B0082?style=flat-square)
 ![Algorithms](https://img.shields.io/badge/Algorithms-4B0082?style=flat-square)
 
-</td>
+</td></tr>
+</table>
 
-</tr>
+<div align="center">
 
-<tr>
-<td colspan="3" align="center">
-<br>
-↓
-<br>
-</td>
-</tr>
+&nbsp;&nbsp;&nbsp;⬇️&nbsp;&nbsp;&nbsp;
 
-<tr>
+</div>
 
-<td align="center" valign="top">
+<table width="100%">
+<tr><td align="center">
 
-### ⚙️ Backend & APIs
+**⚙️ Backend & APIs**
 
 Developing server-side applications and **REST APIs** while working with application logic and data management.
-
-<br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_APIs-005571?style=flat-square)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-</td>
+</td></tr>
+</table>
 
-<td align="center" valign="middle">
-&nbsp;&nbsp;→&nbsp;&nbsp;
-</td>
+<div align="center">
 
-<td align="center" valign="top">
+&nbsp;&nbsp;&nbsp;⬇️&nbsp;&nbsp;&nbsp;
 
-### 🐳 DevOps
+</div>
+
+<table width="100%">
+<tr><td align="center">
+
+**🐳 DevOps**
 
 Exploring **containerization, deployment, and development workflows** using modern DevOps technologies.
-
-<br>
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-</td>
-
-</tr>
+</td></tr>
 </table>
-
-</div>
 
 ## ⚡ Development Workflow
 
