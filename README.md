@@ -262,7 +262,7 @@ Exploring **containerization, deployment, and development workflows** using mode
 
 <div align="center">
 
-#### `Build • Solve • Learn • Improve`
+### `Build • Solve • Learn • Improve`
 
 <br>
 
