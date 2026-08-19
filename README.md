@@ -38,14 +38,14 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 ## 🛠️ Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
 ### 💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,js" />
+<img src="https://skillicons.dev/icons?i=java,c,js" height="35"/>
 </p>
 
 `Java` · `C` · `JavaScript`
@@ -59,7 +59,7 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 ### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react" height="35"/>
 </p>
 
 `HTML` · `CSS` · `JavaScript` · `React.js`
@@ -68,24 +68,24 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 </tr>
 
 <tr>
-<td width="50%" valign="bottom">
+<td width="50%" valign="top">
 
 ### ⚙️ Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="35"/>
 </p>
 
 `Node.js` · `Express.js` · `MongoDB` · `SQL`
 
 </td>
 
-<td width="50%" valign="bottom">
+<td width="50%" valign="top">
 
 ### 🐳 DevOps & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="35"/>
 </p>
 
 `Docker` · `Kubernetes` · `Git` · `GitHub`
