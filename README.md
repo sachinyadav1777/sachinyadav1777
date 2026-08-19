@@ -38,6 +38,11 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 ## 🛠️ Tech Stack
 
+<table border="0" width="100%">
+<tr>
+
+<td width="50%" valign="top">
+
 <div align="left">
 
 <kbd>
@@ -53,10 +58,12 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<div align="right">
-  
+<td width="50%" valign="top">
+
+<div align="left">
+
 <kbd>
 
 ### 🎨 Frontend
@@ -70,7 +77,17 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 </div>
 
-<br><br>
+</td>
+
+</tr>
+
+<tr>
+<td colspan="2"><br></td>
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
 
 <div align="left">
 
@@ -87,9 +104,12 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+</td>
 
-<div align="right">
+<td width="50%" valign="top">
+
+<div align="left">
+
 <kbd>
 
 ### 🐳 DevOps & Tools
@@ -102,6 +122,13 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 </kbd>
 
 </div>
+
+</td>
+
+</tr>
+</table>
+
+---
 
 ## 🎯 Current Focus
 
