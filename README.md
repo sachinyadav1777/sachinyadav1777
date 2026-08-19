@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm Sachin Yadav
 
----
-
 ### 💻 Full Stack Developer | Java & DSA | MERN Stack | SQL | DevOps
 
 <p>
@@ -43,53 +41,49 @@ I enjoy learning through hands-on development — taking an idea, turning it int
 <div align="center">
 
 <kbd>
-
-### 💻 Programming
-
+<b>💻 Programming</b>
+<br><br>
 <img src="https://skillicons.dev/icons?i=java,c,js" height="32" />
-
-`Java` · `C` · `JavaScript`  
-`DSA` · `OOP`
-
+<br>
+<code>Java</code> · <code>C</code> · <code>JavaScript</code>
+<br>
+<code>DSA</code> · <code>OOP</code>
 </kbd>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <kbd>
-
-### 🎨 Frontend
-
+<b>🎨 Frontend</b>
+<br><br>
 <img src="https://skillicons.dev/icons?i=html,css,react" height="32" />
-
-`HTML` · `CSS` · `JavaScript`  
-`React.js`
-
+<br>
+<code>HTML</code> · <code>CSS</code> · <code>JavaScript</code>
+<br>
+<code>React.js</code>
 </kbd>
 
 <br><br>
 
 <kbd>
-
-### ⚙️ Backend & Database
-
+<b>⚙️ Backend & Database</b>
+<br><br>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" height="32" />
-
-`Node.js` · `Express.js`  
-`MongoDB` · `SQL` · `REST APIs`
-
+<br>
+<code>Node.js</code> · <code>Express.js</code>
+<br>
+<code>MongoDB</code> · <code>SQL</code> · <code>REST APIs</code>
 </kbd>
 
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <kbd>
-
-### 🐳 DevOps & Tools
-
+<b>🐳 DevOps & Tools</b>
+<br><br>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github" height="32" />
-
-`Docker` · `Kubernetes`  
-`Git` · `GitHub`
-
+<br>
+<code>Docker</code> · <code>Kubernetes</code>
+<br>
+<code>Git</code> · <code>GitHub</code>
 </kbd>
 
 </div>
