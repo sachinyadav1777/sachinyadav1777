@@ -214,7 +214,7 @@ Exploring **containerization, deployment, and development workflows** using mode
 </td>
 
 <td align="center">
-&nbsp;&nbsp;➜&nbsp;&nbsp;
+&nbsp;&nbsp;➡️&nbsp;&nbsp;
 </td>
 
 <td align="center">
@@ -222,7 +222,7 @@ Exploring **containerization, deployment, and development workflows** using mode
 </td>
 
 <td align="center">
-&nbsp;&nbsp;➜&nbsp;&nbsp;
+&nbsp;&nbsp;➡️&nbsp;&nbsp;
 </td>
 
 <td align="center">
@@ -230,7 +230,7 @@ Exploring **containerization, deployment, and development workflows** using mode
 </td>
 
 <td align="center">
-&nbsp;&nbsp;➜&nbsp;&nbsp;
+&nbsp;&nbsp;➡️&nbsp;&nbsp;
 </td>
 
 <td align="center">
@@ -238,7 +238,7 @@ Exploring **containerization, deployment, and development workflows** using mode
 </td>
 
 <td align="center">
-&nbsp;&nbsp;➜&nbsp;&nbsp;
+&nbsp;&nbsp;➡️&nbsp;&nbsp;
 </td>
 
 <td align="center">
