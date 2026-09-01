@@ -142,7 +142,11 @@ Building applications where the **frontend, backend, and database** work togethe
 
 </td>
 </tr>
-</table><div align="center">⬇️</div><table width="90%">
+
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
 <tr>
 <td align="center">
 
@@ -157,7 +161,11 @@ Working with **Java, OOP, Data Structures, Algorithms, and problem-solving** to 
 
 </td>
 </tr>
-</table><div align="center">⬇️</div><table width="90%">
+
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
 <tr>
 <td align="center">
 
@@ -172,7 +180,11 @@ Developing server-side applications and **REST APIs** while working with applica
 
 </td>
 </tr>
-</table><div align="center">⬇️</div><table width="90%">
+
+<tr>
+<td align="center">⬇️</td>
+</tr>
+
 <tr>
 <td align="center">
 
@@ -187,6 +199,7 @@ Exploring **containerization, deployment, and development workflows** using mode
 
 </td>
 </tr>
+
 </table>
 
 </div>
