@@ -141,7 +141,6 @@ Building applications where the **frontend, backend, and database** work togethe
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
-</tr>
 </table>
 
 <div align="center">⬇️</div>
