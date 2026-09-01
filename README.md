@@ -199,7 +199,6 @@ Exploring **containerization, deployment, and development workflows** using mode
 
 </td>
 </tr>
-
 </table>
 
 </div>
