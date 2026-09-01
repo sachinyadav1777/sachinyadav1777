@@ -141,11 +141,8 @@ Building applications where the **frontend, backend, and database** work togethe
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 </td>
-</table>
-
-<div align="center">⬇️</div>
-
-<table width="90%">
+</tr>
+</table><div align="center">⬇️</div><table width="90%">
 <tr>
 <td align="center">
 
@@ -160,11 +157,7 @@ Working with **Java, OOP, Data Structures, Algorithms, and problem-solving** to 
 
 </td>
 </tr>
-</table>
-
-<div align="center">⬇️</div>
-
-<table width="90%">
+</table><div align="center">⬇️</div><table width="90%">
 <tr>
 <td align="center">
 
@@ -179,11 +172,7 @@ Developing server-side applications and **REST APIs** while working with applica
 
 </td>
 </tr>
-</table>
-
-<div align="center">⬇️</div>
-
-<table width="90%">
+</table><div align="center">⬇️</div><table width="90%">
 <tr>
 <td align="center">
 
